@@ -1,6 +1,6 @@
 // vim:ts=4:sw=4:et
 {
-    "border": "pixel",
+    "border": "normal",
     "current_border_width": 2,
     "floating": "auto_off",
     "geometry": {
@@ -9,22 +9,22 @@
        "x": 0,
        "y": 0
     },
-    "name": "i3-save-tree --workspace 2 > ~/.i3/workspace.json",
-    "percent": 0.621255994339771,
+    "name": "hans@peter: ~",
+    "percent": 0.632296339722675,
     "swallows": [
        {
        // "class": "^Gnome\\-terminal$",
        // "instance": "^gnome\\-terminal$",
-       // "title": "^i3\\-save\\-tree\\ \\-\\-workspace\\ 2\\ \\>\\ \\~\\/\\.i3\\/workspace\\.json$",
+       // "title": "^hans\\@peter\\:\\ \\~$",
        // "transient_for": "^$",
-       // "window_role": "^gnome\\-terminal\\-window\\-21608\\-\\-1906047652\\-1455163468$"
+       // "window_role": "^gnome\\-terminal\\-window\\-3534\\-2082399883\\-1455178578$"
        }
     ],
     "type": "con"
 }
 
 {
-    "border": "pixel",
+    "border": "normal",
     "current_border_width": 2,
     "floating": "auto_off",
     "geometry": {
@@ -33,15 +33,15 @@
        "x": 0,
        "y": 0
     },
-    "name": "dead@beef: ~",
-    "percent": 0.378744005660229,
+    "name": "hans@peter: ~",
+    "percent": 0.367703660277325,
     "swallows": [
        {
        // "class": "^Gnome\\-terminal$",
        // "instance": "^gnome\\-terminal$",
-       // "title": "^dead\\@beef\\:\\ \\~$",
+       // "title": "^hans\\@peter\\:\\ \\~$",
        // "transient_for": "^$",
-       // "window_role": "^gnome\\-terminal\\-window\\-21608\\-509743231\\-1455163561$"
+       // "window_role": "^gnome\\-terminal\\-window\\-3534\\-516323199\\-1455178579$"
        }
     ],
     "type": "con"
